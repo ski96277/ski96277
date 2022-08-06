@@ -1,6 +1,8 @@
+![Mobile Application Developer](https://media-exp1.licdn.com/dms/image/C5616AQEombMCEiCc4g/profile-displaybackgroundimage-shrink_200_800/0/1596394112009?e=1665014400&v=beta&t=qSXAAXGwnlTSEYL_EegqIu2vWpgNRTjls9kqicqb_A0)
+
 ### Hi there 👋, I'm Shaikh Imran Hossain
 #### Mobile Application Developer
-![Mobile Application Developer](https://media-exp1.licdn.com/dms/image/C5616AQEombMCEiCc4g/profile-displaybackgroundimage-shrink_200_800/0/1596394112009?e=1665014400&v=beta&t=qSXAAXGwnlTSEYL_EegqIu2vWpgNRTjls9kqicqb_A0)
+
 
 I have 3+ years of experience with native android development and flutter app development.
 I have solid knowledge on Android SDK and Flutter SDK, Java, Kotlin, Dart, Firebase, Web Service, API, Google map & Push Notification, background service. Currently, I'm working on IQMinds Technology as an Mobile Application Developer.
