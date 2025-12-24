@@ -1,28 +1,151 @@
+# Shaikh Imran Hossain
 
-### Hi there 👋, I'm Shaikh Imran Hossain
-#### Mobile Application Developer
+**Senior Flutter Application Developer** 
+
+---
+
+## 🚀 Professional Summary
+
+I am a highly accomplished mobile application developer with **six years of experience** specializing in high-performance, scalable, and user-friendly solutions. My expertise covers both **cross-platform Flutter (Dart)** and **native Android (Java/Kotlin)**. I am skilled in architecture design (MVVM/MVC), CI/CD, and end-to-end release management.
+
+---
+
+## 🛠 Technical Expertise
+
+### **Languages & Frameworks**
+
+* **Flutter & Dart** 
 
 
-I have 5 years of experience with native android development and flutter app development.
-I have solid knowledge on Android SDK and Flutter SDK, Java, Kotlin, Dart, Firebase, Web Service, API, Google map & Push Notification, background service. Currently, I'm working on IQMinds Technology as an Mobile Application Developer.
-
-Skills: Java / Kotlin / Dart / Android / Flutter
-
-- 🔭 I’m currently working on Mobile application development using Flutter and Android framework 
-
-- 💬 Ask me about Mobile application development 
+* **Android Native (Kotlin/Java)** 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ski96277)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/imransk96277//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ski96277)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ski96277)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/7606425/imran-sk)  
+* **Web/Backend:** Node.js, Express.js, JavaScript 
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ski96277)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ski96277)](https://github.com/anuraghazra/github-readme-stats)
+### **State Management & Architecture**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ski96277&show_icons=true&count_private=true)  
+* **State Management:** GetX, BLoC, Provider 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ski96277)  
 
-[![](https://visitcount.itsvg.in/api?id=Farhana007&icon=0&color=0)](https://visitcount.itsvg.in)
+* **Architecture:** MVVM, MVC, BLoC pattern 
+
+
+* **Best Practices:** Unit Testing, Vibe Coding, Rest API 
+
+
+
+### **Databases & Tools**
+
+* **Databases:** Firebase, Supabase, SQL, Hive, MongoDB, PostgreSQL 
+
+
+* **Tools:** Git (VCS), Jira, Trello, BitBucket 
+
+
+* **DevOps:** CI/CD and Release Management 
+
+
+
+---
+
+## 💼 Professional Experience
+
+### **Teamlance, Bulgaria** | Mobile Application Developer
+
+*May 2022 – PRESENT* 
+
+* Lead the full development lifecycle of high-performance mobile apps using Flutter.
+
+
+* Manage and coordinate a small team to ensure timely and high-quality feature delivery.
+
+
+* Improved app performance by analyzing projects and implementing efficient solutions.
+
+
+* Manage end-to-end release processes for both iOS and Android platforms.
+
+
+
+### **IQMinds Technology, UAE** | Mobile Application Developer
+
+*Oct 2021 – April 2022* 
+
+* Developed mobile applications using both Android Native and Flutter frameworks.
+
+
+* Built a **fintech mobile SDK** prioritizing high security standards.
+
+
+* Managed application releases across iOS and Android platforms.
+
+
+
+### **Rokkhi IT Ltd, Bangladesh** | Mobile Application Developer
+
+*Nov 2019 – Sep 2021* 
+
+* Improved existing apps through detailed business analysis and rapid feature implementation.
+
+
+* Managed release processes for iOS and Android apps.
+
+
+
+---
+
+## 🎓 Education & Certifications
+
+* **B.Sc. in Computer Science and Engineering** – Bangladesh University, Dhaka (2018) 
+
+
+* **Android Development Certification** – BASIS Institute of Technology & Management (BITM) 
+
+
+
+---
+
+## 📂 Key Projects
+
+* **Badiala & TPNL:** [iOS](https://apps.apple.com/pl/app/badiala/id1668050055) and [Android](https://play.google.com/store/apps/details?id=com.badiala&hl=bn) 
+
+* **TPNL:** [iOS](https://apps.apple.com/us/app/the-prenatal-nutrition-library/id1543877484) and [Android](https://play.google.com/store/apps/details?id=com.theprenatalnutritionlibrary&hl=en&gl=US)
+
+* **Resono:** [iOS](https://apps.apple.com/ae/app/resono/id6462871094), [Android](https://play.google.com/store/apps/details?id=com.resono&hl=en&gl=US&pli=1), and [Web](https://resono.me/) 
+
+
+* **V-Strength:** [iOS](https://apps.apple.com/us/app/v-strength-gym-tracker-log/id1599709664) and [Android](https://play.google.com/store/apps/details?id=com.viking_strength&hl=en&gl=US) 
+
+
+* **Mortgage Magic:** [iOS](https://apps.apple.com/ie/app/mortgage-magic-client/id1574687745) and [Android](https://play.google.com/store/apps/details?id=uk.co.mortgagemagic.client&hl=en&gl=US) 
+
+* **MMHF Toll:** [iOS](https://apps.apple.com/ae/app/mmhf-toll/id6544800191) and [Android](https://play.google.com/store/apps/details?id=com.bd.mmhf) 
+
+* **Nutrition Reporting:** [Android](https://play.google.com/store/apps/details?id=com.riseuplabs.nutritionmis&hl=en_US) 
+
+* **ARCHICONNECT HOMES:** [Android](https://play.google.com/store/apps/details?id=com.archiconnect.app) 
+
+* **ARCHICONNECT ACADEMY:** [Android](https://play.google.com/store/apps/details?id=com.archiconnect.academy) 
+
+* **ARCHICONNECT STORE:** [Android](https://play.google.com/store/apps/details?id=com.archiconnect.store) 
+
+---
+
+## 📬 Contact Me
+
+* **Address:** Mohammadpur, Dhaka, Bangladesh 
+
+
+* **Email:** imran.bu96@gmail.com 
+
+
+* **Portfolio:** [imransk.me](https://imransk.me) 
+
+
+* **LinkedIn:** [imransk96277](https://www.linkedin.com/in/imransk96277/) 
+
+
+* **GitHub:** [ski96277](https://github.com/ski96277) 
+
